@@ -1,6 +1,6 @@
 let round = 0;
-let player1 = 'Danilo';
-let player2 = 'Marko';
+let player1 = 'player1';
+let player2 = 'player2';
 let dice1 = Math.floor(Math.floor()*6)+1;
 let dice2 = Math.floor(Math.floor()*6)+1;
 
