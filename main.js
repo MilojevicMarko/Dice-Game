@@ -14,8 +14,6 @@ let player2 = {
 
 function game() {
   round++;
-  // let dice1 = Math.floor(Math.random() * 6) + 1;
-  // let dice2 = Math.floor(Math.random() * 6) + 1;
   player1.score1 += player1.dice1;
   player2.score2 += player2.dice2;
   console.log(
